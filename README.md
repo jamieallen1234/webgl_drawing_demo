@@ -11,13 +11,6 @@ $ npm install
 $ tsc -w
 # In another terminal
 $ now dev
-# or your favorite static site server
-```
-
-How to deploy:
-
-```sh
-$ now
 ```
 
 Branched from: https://github.com/darknoon/brushtips
