@@ -1,0 +1,4 @@
+.vscode/
+.prettierignore
+build/
+node_modules/

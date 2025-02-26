@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "now-build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "now": "^21.0.1",
+    "undici-types": "^7.3.0"
+  }
+}
