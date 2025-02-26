@@ -14,6 +14,7 @@ $ now dev
 ```
 
 Branched from: https://github.com/darknoon/brushtips
+
 Improvements:
 - Removed lag on draw
 - Improved smoothness of drawing tool
